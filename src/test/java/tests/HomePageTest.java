@@ -7,6 +7,8 @@ public class HomePageTest {
 
 		System.out.println("LinkedIn Home Page Test");
 		
+		System.out.println("We made this change in the Github");
+		
 		
 		
 	}
