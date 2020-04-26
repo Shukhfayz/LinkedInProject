@@ -10,7 +10,7 @@ public class HomePage {
 		
 		System.out.println("This is a change in the local machine");
 		
-		System.out.println("This is a first change in the Branch NewBranch"); 
+		System.out.println("This is a first change in the Branch Master"); 
 		
 	}
 
