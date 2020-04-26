@@ -12,6 +12,8 @@ public class HomePage {
 		
 		System.out.println("This is a first change in the Branch Master"); 
 		
+		System.out.println("This is another change in the Branch NewBranch");
+		
 	}
 
 }
